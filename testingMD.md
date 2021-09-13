@@ -44,3 +44,43 @@ unordered lists
 - first item
 - second item
 
+Table testing
+-------------
+
+| Syntax | Description | More |
+| ------ | :-----------: |    ------: |
+| Header | Title | more text |
+| paragraph | text | more text |
+
+`to understand the code syntax` 
+
+Fenced code block
+---------
+
+```json
+{
+  "firstName": "John",
+  "lastName": "Smith",
+  "age": 25
+}
+```
+
+Here's a simple footnote,[^1]
+
+[^1]: This is the first footnote.
+
+[Heading IDs](use a url here#heading-ids)
+
+
+~~This phase is cut.~~
+
+- [x] Write the press release
+
+- [ ] Update the website
+
+- [ ] Contact the media
+
+Gone camping! :tent: be back soon.
+
+that is so funny :joy:
+
