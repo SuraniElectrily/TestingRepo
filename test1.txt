@@ -1,0 +1,13 @@
+ Volume in drive C is OS
+ Volume Serial Number is 289A-3E11
+
+ Directory of C:\Users\Kaushi (DT)\OneDrive\Desktop\myProject
+
+09/13/2021  03:18 PM    <DIR>          .
+09/13/2021  03:18 PM    <DIR>          ..
+09/13/2021  03:18 PM               129 test1.txt
+               1 File(s)            129 bytes
+               2 Dir(s)  74,072,981,504 bytes free
+
+
+git remote add origin https://github.com/SuraniElectrily/TestingRepo.git
